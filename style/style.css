@@ -39,7 +39,7 @@ nav article {
 }
 
 body {
-    background-image: url(../img/background.png);
+    background-image: url(/style/img/background.png);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
